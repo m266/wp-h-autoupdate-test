@@ -1,2 +1,3 @@
 # wp-h-autoupdate-test
-Test 3
+
+Plugin zum Testen der Update-Funktion von GitHub (nach dem Test bitte wieder entfernen)
